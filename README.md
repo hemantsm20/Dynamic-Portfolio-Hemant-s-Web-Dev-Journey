@@ -6,10 +6,8 @@ Welcome to my personal portfolio website! This project showcases my journey as a
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies](#technologies)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
