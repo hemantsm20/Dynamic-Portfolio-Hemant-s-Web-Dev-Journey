@@ -40,6 +40,3 @@ Hemant's Portfolio is a web application that highlights my passion for web devel
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, please create an issue or submit a pull request.
 
 ---
-
-Feel free to customize this README to match your project's details. Happy coding!
-
